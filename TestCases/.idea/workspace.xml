@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88dbe08a-9de5-46e0-85ee-6ddfc6e10ab2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/TestAutomation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TestAutomation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pydevproject" beforeDir="false" afterPath="$PROJECT_DIR$/.pydevproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTMLRunner/HTMLTestRunner.py" beforeDir="false" afterPath="$PROJECT_DIR$/HTMLRunner/HTMLTestRunner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoggerReport/report.log" beforeDir="false" afterPath="$PROJECT_DIR$/LoggerReport/report.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuiteRunner/TestSuitesRunner.py" beforeDir="false" afterPath="$PROJECT_DIR$/SuiteRunner/TestSuitesRunner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestBaseSetUp/Variable.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestBaseSetUp/Variable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCases/test_LogIn_I2Chain.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/test_LogIn_I2Chain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCases/test_SignUp_I2Chain.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/test_SignUp_I2Chain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestPages/SignUpPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestPages/SignUpPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestPages/logInPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestPages/logInPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestPagesLocators/TestPageLocators.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestPagesLocators/TestPageLocators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserTestData/UserTestDataVar.py" beforeDir="false" afterPath="$PROJECT_DIR$/UserTestData/UserTestDataVar.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestCases/TestDropBoxConnection.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1480">
+              <caret line="13" column="21" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestCases/test_LogIn_I2Chain.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1508">
+              <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#52#1" />
+                <element signature="e#53#68#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestCases/test_SignUp_I2Chain.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-520">
+              <caret line="86" column="25" selection-start-line="86" selection-start-column="14" selection-end-line="86" selection-end-column="25" />
+              <folding>
+                <element signature="e#51#66#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SuiteRunner/TestSuitesRunner.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+              <folding>
+                <element signature="e#56#71#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestPages/SignUpPage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+              <folding>
+                <element signature="e#51#105#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestCases/TestGoogleDriveConnection.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1460">
+              <caret line="20" column="68" selection-start-line="20" selection-start-column="68" selection-end-line="20" selection-end-column="68" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestBaseSetUp/Variable.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestCases/testOneDriveConnection.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-540">
+              <caret line="47" column="41" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestPages/logInPage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="9" column="26" selection-start-line="7" selection-start-column="3" selection-end-line="9" selection-end-column="26" />
+              <folding>
+                <element signature="e#1#55#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestPages/SettingPage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1860">
+              <caret line="96" column="70" selection-start-line="96" selection-start-column="70" selection-end-line="96" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Python Unit Test" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\NITS-D061\eclipse-workspace\TestAutomation</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/TestCases/test_LogIn_I2Chain.py" />
+        <option value="$PROJECT_DIR$/Utils/UtilityMethods.py" />
+        <option value="$PROJECT_DIR$/TestCases/SettingPageTest.py" />
+        <option value="$PROJECT_DIR$/TestPages/SignUpPage.py" />
+        <option value="$PROJECT_DIR$/TestCases/test_SignUp_I2Chain.py" />
+        <option value="$PROJECT_DIR$/LoggerReport/report.log" />
+        <option value="$PROJECT_DIR$/TestCases/TestSettingPage.py" />
+        <option value="$PROJECT_DIR$/TestCases/testOneDriveConnection.py" />
+        <option value="$PROJECT_DIR$/TestCases/TestDropBoxConnection.py" />
+        <option value="$PROJECT_DIR$/TestBaseSetUp/Variable.py" />
+        <option value="$PROJECT_DIR$/TestPages/SettingPage.py" />
+        <option value="$PROJECT_DIR$/TestPagesLocators/TestPageLocators.py" />
+        <option value="$PROJECT_DIR$/UserTestData/UserTestDataVar.py" />
+        <option value="$PROJECT_DIR$/TestCases/TestGoogleDriveConnection.py" />
+        <option value="$PROJECT_DIR$/SuiteRunner/TestSuitesRunner.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TestAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestAutomation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="HTMLRunner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="LoggerReport" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="SuiteRunner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="TestBaseSetUp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="TestCases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="TestPages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="TestPagesLocators" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="TestReport" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="UserTestData" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="Utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TestCases" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="TestAutomation" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="TestAutomation" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\TestAutomation\TestCases" />
+      <recent name="D:\TestAutomation\TestPages" />
+      <recent name="C:\Users\NITS-D061\eclipse-workspace\TestAutomation\Drivers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.TestSuitesRunner">
+    <configuration name="TestSuitesRunner" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TestAutomation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SuiteRunner" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SuiteRunner/TestSuitesRunner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestsuiteRunner" type="PythonConfigurationType" factoryName="Python">
+      <module name="TestAutomation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SuiteRunner" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SuiteRunner/TestsuiteRunner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for TestCases.TestGoogleDriveConnection" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="TestAutomation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;TestCases.TestGoogleDriveConnection&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for TestCases.TestGoogleDriveConnection.SettingPageTest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="TestAutomation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;TestCases.TestGoogleDriveConnection.SettingPageTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for TestCases.TestGoogleDriveConnection.SettingPageTest.testConnectGoogleDrive" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="TestAutomation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;TestCases.TestGoogleDriveConnection.SettingPageTest.testConnectGoogleDrive&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_SignUp_I2Chain.SignUpTest.test_New_SignUp" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="TestAutomation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_SignUp_I2Chain.SignUpTest.test_New_SignUp&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.TestsuiteRunner" />
+      <item itemvalue="Python.TestSuitesRunner" />
+      <item itemvalue="Python tests.pytest for TestCases.TestGoogleDriveConnection" />
+      <item itemvalue="Python tests.pytest for TestCases.TestGoogleDriveConnection.SettingPageTest" />
+      <item itemvalue="Python tests.pytest for TestCases.TestGoogleDriveConnection.SettingPageTest.testConnectGoogleDrive" />
+      <item itemvalue="Python tests.pytest for test_SignUp_I2Chain.SignUpTest.test_New_SignUp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.TestSuitesRunner" />
+        <item itemvalue="Python tests.pytest for TestCases.TestGoogleDriveConnection.SettingPageTest.testConnectGoogleDrive" />
+        <item itemvalue="Python tests.pytest for TestCases.TestGoogleDriveConnection.SettingPageTest" />
+        <item itemvalue="Python tests.pytest for TestCases.TestGoogleDriveConnection" />
+        <item itemvalue="Python tests.pytest for test_SignUp_I2Chain.SignUpTest.test_New_SignUp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88dbe08a-9de5-46e0-85ee-6ddfc6e10ab2" name="Default Changelist" comment="" />
+      <created>1564146648159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564146648159</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_test_LogIn_I2Chain_py - 2019.09.06 at 20h 39m 58s.xml">
+      <configuration name="pytest in test_LogIn_I2Chain.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_LogIn_I2Chain_LogInTest - 2019.09.06 at 20h 51m 50s.xml">
+      <configuration name="pytest for test_LogIn_I2Chain.LogInTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_LogIn_I2Chain_LogInTest - 2019.09.06 at 20h 52m 04s.xml">
+      <configuration name="pytest for test_LogIn_I2Chain.LogInTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_LogIn_I2Chain_LogInTest - 2019.09.06 at 20h 52m 57s.xml">
+      <configuration name="pytest for test_LogIn_I2Chain.LogInTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_SignUp_I2Chain_SignUpTest_test_New_SignUp - 2019.09.06 at 20h 53m 37s.xml">
+      <configuration name="pytest for test_SignUp_I2Chain.SignUpTest.test_New_SignUp" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_SignUp_I2Chain_SignUpTest_test_New_SignUp - 2019.09.09 at 15h 34m 21s.xml">
+      <configuration name="pytest for test_SignUp_I2Chain.SignUpTest.test_New_SignUp" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_TestSettingPage_MyTestCase - 2019.09.10 at 12h 00m 39s.xml">
+      <configuration name="pytest for TestSettingPage.MyTestCase" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_TestSettingPage_SettingPageTest_testConnectDrive - 2019.09.10 at 16h 50m 44s.xml">
+      <configuration name="pytest for TestSettingPage.SettingPageTest.testConnectDrive" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_TestSettingPage_SettingPageTest_testConnectDrive - 2019.09.10 at 18h 13m 59s.xml">
+      <configuration name="pytest for TestSettingPage.SettingPageTest.testConnectDrive" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_TestSettingPage_SettingPageTest_testConnectGoogleDrive - 2019.09.11 at 15h 20m 25s.xml">
+      <configuration name="pytest for TestSettingPage.SettingPageTest.testConnectGoogleDrive" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21428572" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34697217" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.10638298" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.project" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/HtmlTestRunner.py" />
+    <entry file="file://$PROJECT_DIR$/SuiteRunner/TestsuiteRunner.py" />
+    <entry file="file://$PROJECT_DIR$/.project">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.pydevproject">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utils/UtilityMethods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#1#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCases/SettingPageTest.py" />
+    <entry file="file://$PROJECT_DIR$/HTMLRunner/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SuiteRunner/SmokeTest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UserTestData/UserTestDataVar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="38" column="29" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestPagesLocators/TestPageLocators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1300">
+          <caret line="65" column="71" selection-start-line="65" selection-start-column="71" selection-end-line="65" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoggerReport/report.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1420">
+          <caret line="71" column="42" selection-start-line="71" selection-start-column="42" selection-end-line="71" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestBaseSetUp/Variable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestPages/logInPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="9" column="26" selection-start-line="7" selection-start-column="3" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="e#1#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestPages/SettingPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1860">
+          <caret line="96" column="70" selection-start-line="96" selection-start-column="70" selection-end-line="96" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestPages/SignUpPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+          <folding>
+            <element signature="e#51#105#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCases/TestDropBoxConnection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1480">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCases/TestGoogleDriveConnection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1460">
+          <caret line="20" column="68" selection-start-line="20" selection-start-column="68" selection-end-line="20" selection-end-column="68" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCases/testOneDriveConnection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-540">
+          <caret line="47" column="41" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCases/test_SignUp_I2Chain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-520">
+          <caret line="86" column="25" selection-start-line="86" selection-start-column="14" selection-end-line="86" selection-end-column="25" />
+          <folding>
+            <element signature="e#51#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCases/test_LogIn_I2Chain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1508">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#52#1" />
+            <element signature="e#53#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SuiteRunner/TestSuitesRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+          <folding>
+            <element signature="e#56#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
